@@ -5,3 +5,5 @@ The plots scripts are all added in seperate R scripts.
 The plots are also added in github.
 
 load_data contains the appropriate package installs required to use my scripts
+
+Comments are made inline in the scripts
